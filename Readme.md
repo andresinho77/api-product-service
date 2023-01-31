@@ -20,7 +20,7 @@ This API is from Adidas
 ```
 URL_API_ADIDAS=https://www.adidas.co.uk/api/products
 ```
-This API is from Adi-api-product-review-service must be running first to work well 
+This API is from api-product-review-service must be running first to work well 
 ```
 URL_API_GETREVIEW=http://localhost:4001/api/reviews
 ```
